@@ -64,15 +64,12 @@ print(Norm_of_matrix)
 
 ```
 ## Output:
-### 1-Norm of a Matrix
-![AI 7A](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/ec1a671c-a83a-4f99-ab93-83de617370c9)
+![03](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/9daf6f76-c441-4661-80ca-0dd49ff306ca)
 
-### 2-Norm of a Matrix
+![02](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/6b70b947-1b28-45dc-a484-499da4db4ef7)
+![01](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/6b54ae47-e65e-4a04-809d-4e6b8b9753bb)
 
-![AI 7 B](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/12c28c44-2055-4b0c-ad18-e3e179901f34)
 
-### Infinity Norm of a Matrix
-![AI 7 C](https://github.com/MURALI22008445/Norm-of-a-matrix/assets/119643767/7539119a-9aad-490e-bda4-f6a89a2734ab)
 
 
 ## Result
